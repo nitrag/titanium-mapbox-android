@@ -6,7 +6,6 @@ tmp
 .map
 .settings
 Thumbs.db
-dist
 libs
 build
 
